@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "Miguel Pimentel"
 languageCode = "en-us"
 baseURL = "https://miguelpimentel.do/"
-copyright = "© {year}"
+# copyright = "© {year}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
