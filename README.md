@@ -14,6 +14,8 @@
 
 ## Codex Theme
 
+Source: <https://github.com/jakewies/hugo-theme-codex>
+
 - An about page 👋🏻 and a blog 📝
 - Blog posts can be tagged 🏷
 - Mathematical notations are supported with KaTex 📐
