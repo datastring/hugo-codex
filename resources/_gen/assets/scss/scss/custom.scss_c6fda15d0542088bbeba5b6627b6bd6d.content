@@ -1,0 +1,1 @@
+.social-icons__icon{filter:invert(100%)}a,a:visited,a.active,a.active:visited{color:orange;text-decoration:none}.post__title,a:hover,a:visited:hover{transition:1s;color:#fff}.social-icons__icon:hover{filter:invert(25%)}span.handle{color:orange;filter:contrast(90%)}
