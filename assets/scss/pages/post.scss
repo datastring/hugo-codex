@@ -174,7 +174,8 @@ $tocBreakpoint: 1024px;
       margin-top: 0;
     }
     &:hover {
-      background-color: #f6f9fc;
+      // background-color: #f6f9fc;
+      background-color: $lightGrey;
     }
   }
 }

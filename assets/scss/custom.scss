@@ -1,3 +1,8 @@
+::selection {
+  background-color: #7928ca;
+  color: #fff;
+}
+
 .social-icons__icon {
     filter: invert(100%);
   }
@@ -6,7 +11,7 @@ a,
 a:visited,
 a.active,
 a.active:visited {
-    color: orange;
+    // color: orange;
     text-decoration: none;
 }
 
@@ -14,7 +19,7 @@ a.active:visited {
 a:hover,
 a:visited:hover {
     transition: all 0.5s;
-    color: white;
+    // color: white;
 }
 
 .social-icons__icon:hover {
@@ -23,6 +28,6 @@ a:visited:hover {
 
 span.handle {
     // color: #ffb86c;
-    color: orange;
+    // color: orange;
     filter: contrast(90%);
 }
