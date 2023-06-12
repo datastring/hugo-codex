@@ -33,7 +33,6 @@ baseURL = "https://miguelpimentel.do/"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Mastodon", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  # iconOrder = ["Twitter", "GitHub"]
   iconOrder = ["GitHub", "Email", "Instagram", "Mastodon", "Linkedin"]
 
   # Metadata for Twitter cards, defaults to params.twitter
