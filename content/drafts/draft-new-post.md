@@ -9,5 +9,3 @@ draft: true
 math: false
 toc: true
 ---
-
-# New Blog Post Title

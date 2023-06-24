@@ -2,6 +2,7 @@
 title: Unlock the Sidebar Width in Firefox
 date: 2023-03-19
 ---
+
 ## Why would anyone want to do this?  
 - To enhance the use of the Firefox [Side View](https://addons.mozilla.org/en-US/firefox/addon/side-view/) extension.
 - To compliment the use of one of my Firefox sidebar [extensions](https://addons.mozilla.org/en-US/firefox/user/17772574/).
