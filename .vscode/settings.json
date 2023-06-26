@@ -1,16 +1,4 @@
 {
-    "frontMatter.content.pageFolders": [
-        {
-            "title": "content",
-            "path": "[[workspace]]/content"
-        },
-        {
-            "title": "content",
-            "path": "[[workspace]]/content"
-        }
-    ],
     "[markdown]": {
-    },
-    "frontMatter.taxonomy.tags": [],
-    "frontMatter.taxonomy.categories": []
+    }
 }
