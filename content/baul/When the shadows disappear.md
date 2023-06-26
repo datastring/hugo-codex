@@ -1,6 +1,6 @@
 ---
 title: When the Shadows Dissapear
-source: https://elandres.wordpress.com/2010/03/04/when-the-shadows-dissapear/
+canonical_url: https://elandres.wordpress.com/2010/03/04/when-the-shadows-dissapear/
 date: 2010-03-04
 ---
 

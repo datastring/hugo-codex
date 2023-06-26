@@ -16,12 +16,14 @@ date: 2023-03-19
 4. Inside your Firefox *Profile Folder*, create a new folder named: `chrome`.
 5. Inside the newly created chrome folder, create a new file named: `userChrome.css`.
 6. Copy the following code, paste as content and save: [^2]
+
 ```css
 #sidebar-box {
   max-width: 40% !important;
   min-width: 20% !important;
 }
 ```
+
 7. Finally, in a new tab, navigate to `about:config` and search for `toolkit.legacyUserProfileCustomizations.stylesheets` and change it to `true`.
 8. Restart Firefox and test it out!
 

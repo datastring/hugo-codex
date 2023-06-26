@@ -1,6 +1,6 @@
 ---
 title: Tan simple como esto
-source: https://elandres.wordpress.com/2010/01/26/tan-simple-como-esto/
+canonical_url: https://elandres.wordpress.com/2010/01/26/tan-simple-como-esto/
 date: 2010-01-26
 ---
 

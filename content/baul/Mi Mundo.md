@@ -1,6 +1,6 @@
 ---
 title: Mi Mundo
-source: https://elandres.wordpress.com/2010/07/20/mi-mundo/
+canonical_url: https://elandres.wordpress.com/2010/07/20/mi-mundo/
 date: 2010-07-20
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Blogging to Tame the Monkey Mind
-date: 2023-04-12
+title: Monkey to Tame the Blogging Mind
 toc: true
 cover: monkey-brain.jpg
+draft: true
 ---
 
 Last week, I came across Danny Guo’s [Why I Blog](https://www.dannyguo.com/blog/why-i-blog) post, and it inspired me to write this.

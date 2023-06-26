@@ -1,6 +1,6 @@
 ---
 title: Hundido en tu existencia...
-source: https://elandres.wordpress.com/2010/01/30/hundido-en-tu-existencia/
+canonical_url: https://elandres.wordpress.com/2010/01/30/hundido-en-tu-existencia/
 date: 2010-01-30
 ---
 

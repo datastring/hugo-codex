@@ -2,10 +2,10 @@
   <ul class="nav__list">
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-      <li>
-        <a {{ if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section .Identifier) }} class="active"
-        {{end}} href="{{ .URL }}">{{ .Name }}</a>
-      </li>
+    <li>
+      <a {{ if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section .Identifier) }} class="active" {{end}}
+        href="{{ .URL }}">{{ .Name }}</a>
+    </li>
     {{ end }}
   </ul>
 </nav>

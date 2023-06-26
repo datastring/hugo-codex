@@ -1,6 +1,6 @@
 ---
 title: Como se mueve el sentimiento 1...
-source: https://elandres.wordpress.com/2010/01/28/como-me-mueve-el-sentimiento-1/
+canonical_url: https://elandres.wordpress.com/2010/01/28/como-me-mueve-el-sentimiento-1/
 date: 2010-01-28
 ---
 

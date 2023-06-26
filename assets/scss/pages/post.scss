@@ -167,12 +167,15 @@ $tocBreakpoint: 1024px;
     width: 275px;
     padding: 15px;
     border-radius: 4px;
+
     &:first-of-type {
       padding-right: 15px;
     }
+
     &:last-of-type {
       margin-top: 0;
     }
+
     &:hover {
       // background-color: #f6f9fc;
       background-color: $lightGrey;

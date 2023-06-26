@@ -1,6 +1,6 @@
 ---
 title: Quiereme para quererte...
-source: https://elandres.wordpress.com/2010/02/02/quireme-para-quererte/
+canonical_url: https://elandres.wordpress.com/2010/02/02/quireme-para-quererte/
 date: 2010-02-02
 ---
 

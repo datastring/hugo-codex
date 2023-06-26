@@ -1,6 +1,6 @@
 ---
 title: Se solicita novia...
-source: https://elandres.wordpress.com/2010/01/23/se-solicita-una-novia/
+canonical_url: https://elandres.wordpress.com/2010/01/23/se-solicita-una-novia/
 date: 2010-01-23
 ---
 

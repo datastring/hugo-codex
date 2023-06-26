@@ -1,6 +1,6 @@
 ---
 title: Extracto — Novela sobre la Guerra Fria
-source: https://elandres.wordpress.com/2010/01/29/cita-novela-sobre-la-guerra-fra/
+canonical_url: https://elandres.wordpress.com/2010/01/29/cita-novela-sobre-la-guerra-fra/
 date: 2010-01-29
 ---
 

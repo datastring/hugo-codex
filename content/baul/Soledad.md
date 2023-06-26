@@ -1,6 +1,6 @@
 ---
 title: Soledad...
-source: https://elandres.wordpress.com/2010/06/23/soledad/
+canonical_url: https://elandres.wordpress.com/2010/06/23/soledad/
 date: 2010-06-23
 ---
 

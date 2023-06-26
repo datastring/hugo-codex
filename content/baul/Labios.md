@@ -1,6 +1,6 @@
 ---
 title: Labios...
-source: https://elandres.wordpress.com/2010/01/23/labios/
+canonical_url: https://elandres.wordpress.com/2010/01/23/labios/
 date: 2010-01-23
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Te amo nena
-source: https://elandres.wordpress.com/2010/01/22/te-amo-nana/
+canonical_url: https://elandres.wordpress.com/2010/01/22/te-amo-nana/
 date: 2010-01-22
 ---
 

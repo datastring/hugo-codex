@@ -1,6 +1,6 @@
 ---
 title: Ella, el misterio...
-source: https://elandres.wordpress.com/2010/01/27/kairy-el-misterio/
+canonical_url: https://elandres.wordpress.com/2010/01/27/kairy-el-misterio/
 date: 2010-01-27
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Moldeame a tu parecer...
-source: https://elandres.wordpress.com/2010/01/23/moldeame-a-tu-parecer/
+canonical_url: https://elandres.wordpress.com/2010/01/23/moldeame-a-tu-parecer/
 date: 2010-01-23
 ---
 

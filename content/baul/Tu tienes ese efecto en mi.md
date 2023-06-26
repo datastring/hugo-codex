@@ -1,6 +1,6 @@
 ---
 title: Tu tienes ese efecto en mi...
-source: https://elandres.wordpress.com/2010/03/03/tu-tienes-ese-efecto-en-mi/
+canonical_url: https://elandres.wordpress.com/2010/03/03/tu-tienes-ese-efecto-en-mi/
 date: 2010-03-03
 ---
 

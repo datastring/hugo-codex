@@ -1,6 +1,6 @@
 ---
 title: Preocupaciones...
-source: https://elandres.wordpress.com/2010/02/02/preocupaciones/
+canonical_url: https://elandres.wordpress.com/2010/02/02/preocupaciones/
 date: 2010-02-02
 ---
 

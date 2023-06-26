@@ -1,6 +1,6 @@
 ---
 title: Dos Jazmines Falsos
-source: https://elandres.wordpress.com/2010/01/22/dos-jazmines-falsos/
+canonical_url: https://elandres.wordpress.com/2010/01/22/dos-jazmines-falsos/
 date: 2010-01-22
 ---
 
