@@ -53,8 +53,9 @@
     {
       "title": "Apricity Content",
       "path": "[[workspace]]/content"
-    },
+    }
   ],
   "frontMatter.taxonomy.categories": [],
-  "frontMatter.taxonomy.tags": []
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.dashboard.openOnStart": true
 }
