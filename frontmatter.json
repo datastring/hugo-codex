@@ -51,13 +51,9 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
+      "title": "Apricity Content",
       "path": "[[workspace]]/content"
     },
-    {
-      "title": "content",
-      "path": "[[workspace]]/content"
-    }
   ],
   "frontMatter.taxonomy.categories": [],
   "frontMatter.taxonomy.tags": []
