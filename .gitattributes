@@ -77,6 +77,13 @@
 # Text files where line endings should be preserved
 *.patch    -text
 
+# Lua Source files
+*.lua       text
+
+# Luadoc output
+*.html      text diff=html
+*.css       text diff=css
+
 #
 # Exclude files from exporting
 #
