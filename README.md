@@ -1,9 +1,9 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🕹%20Miguel%20Pimentel%20🎮&width=800&height=400)
 
-![last-commit](https://img.shields.io/github/last-commit/datastring/apricity?style=for-the-badge)
-![deployment](https://img.shields.io/github/deployments/datastring/apricity/github-pages?style=for-the-badge)
-![img](https://img.shields.io/github/repo-size/datastring/apricity?style=for-the-badge)
-![img](https://img.shields.io/tokei/lines/github/datastring/apricity?style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/semanticdata/apricity?style=for-the-badge)
+![deployment](https://img.shields.io/github/deployments/semanticdata/apricity/github-pages?style=for-the-badge)
+![img](https://img.shields.io/github/repo-size/semanticdata/apricity?style=for-the-badge)
+![img](https://img.shields.io/tokei/lines/github/semanticdata/apricity?style=for-the-badge)
 
 # Apricity
 
