@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Miguel Pimentel"
 languageCode = "en-us"
-baseURL = "https://miguelpimentel.do/"
+baseURL = "https://semanticdata.github.io/apricity"
 # copyright = "© {year}"
 
 # Add your Disqus shortname here.
